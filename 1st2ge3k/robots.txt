@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /index.html
+Host: 1st2ge3k.ru
+Sitemap: http://1st2ge3k.ru/sitemap.xml
